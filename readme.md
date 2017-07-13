@@ -4,9 +4,12 @@
   */ User input base number = base roman numerals
     Input Example: 5
     Output Example: V
-  User input single digit 1-3
-    Input Example: 1
-    Output Example: I
+  User input outside of base numbers, add romans
+    Input Example: 4
+    Output Example: IIII
+  User input single digit 4 or 9
+    Input Example: 4
+    Output Example: IV
   */ User input is 5
     Input Example: 5
     Output Example: V
