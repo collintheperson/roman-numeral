@@ -31,6 +31,6 @@
 */ User input 4
     User input:4
     Output example: IV
-  */ User input between 1-3 & 6-8
-      User input: 6
-      Output example: VI
+*/ User input between 1-3 & 6-8
+    User input: 6
+    Output example: VI
